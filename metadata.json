@@ -1,0 +1,5 @@
+{
+  "name": "MacroMind: AI Calorie & Macro Calculator",
+  "description": "An intelligent tool to look up food nutrition information and calculate your personal health metrics like BMI, body fat percentage, and daily caloric/macro needs based on your goals.",
+  "requestFramePermissions": []
+}
